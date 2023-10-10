@@ -56,10 +56,12 @@ See `options/test_options.py` for more options and default hyperparameters.
 If you find this repository useful in your research, please cite our paper:
 
 ```bibtex
-@article{garmendianeural,
+@article{garmendia2023neural,
   title={Neural Improvement Heuristics for Graph Combinatorial Optimization Problems},
   author={Garmendia, Andoni I and Ceberio, Josu and Mendiburu, Alexander},
-  journal={IEEE transactions on neural networks and learning systems}
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2023},
+  publisher={IEEE}
 }
 ```
 
